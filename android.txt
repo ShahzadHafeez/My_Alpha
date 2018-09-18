@@ -1,0 +1,96 @@
+-->activity life cycle
+
+assignment
+observe different activity and their tasks
+
+
+--> breakpoints and debugging
+
+
+--> www.pinterest.com (for interface)
+
+
+
+ctrl+d (for duplicate)
+
+
+
+
+instructor email: m.umairayub@gmail.com
+
+
+
+
+
+
+
+.............................................................................................
+day2
+.............................................................................................
+
+drawable  (icon with name in sign up form)
+
+
+selector /items
+
+--> make a new drawble resourse
+context/fragnance
+
+
+--> work to do interface/abstract
+
+- intents
+- serialization
+
+
+work to do:
+--- scroll view
+--- validation
+step by step fill form use "visibility" to hide an display different sections
+
+
+
+-- view on view 
+
+
+--life cycle of fragment
+
+
+
+
+...................................................................................................
+3rd Class
+...................................................................................................
+(alt + enter) -->used for onclick listner
+
+
+alt+shift ()
+
+error=getResourse().getString(R.string.<name>);
+
+setError(error);
+
+
+
+selector to round sigin button
+image view
+
+....invalidate cache and restart(if studio not working)
+
+
+
+................work to do............
+1) facebook post
+2) whatsapp chats
+3) fb profile
+
+
+
+again 5 frafmenst
+..>fragments
+-->adapters
+-->view pager
+
+
+
+
